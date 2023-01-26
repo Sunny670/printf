@@ -17,3 +17,4 @@ int _printf(const char *format, ...)
 	_printf("%%\n", i);
 
 	return (0);
+}
